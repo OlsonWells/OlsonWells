@@ -19,7 +19,6 @@ Python, agents LLM et RAG (LangGraph, LangChain, protocole MCP, function calling
 - Top 0,77 % sur [Root-Me](https://www.root-me.org/dlfpw), avec 98 challenges validés
 - 3<sup>e</sup> place au CTF de l'École Hexagone (novembre 2026)
 - Licence 3 Informatique à l'Université de Caen Normandie, mention Bien, 11<sup>e</sup> sur 126
-- Major de promotion en L1 à l'USTHB (Alger)
 
 ### Contact
 
